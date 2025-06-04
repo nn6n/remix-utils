@@ -279,7 +279,7 @@
 		}
 	},
 	"devDependencies": {
-		"@arethetypeswrong/cli": "^0.17.4",
+		"@arethetypeswrong/cli": "^0.18.1",
 		"@biomejs/biome": "^1.7.2",
 		"@edgefirst-dev/batcher": "^1.0.1",
 		"@edgefirst-dev/jwt": "^1.2.0",
